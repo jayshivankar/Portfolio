@@ -1,5 +1,6 @@
 # 💻 Jay Shivankar – AI Portfolio
 
+
 Welcome to my interactive AI portfolio! This site showcases my hands-on work in Machine Learning, NLP, Computer Vision, and Generative AI. Built with a focus on real-world problem-solving, it includes live project demos, certifications, and internship experience.
 
 🌐 **Live Portfolio:** [https://incandescent-kitsune-d3de74.netlify.app](https://incandescent-kitsune-d3de74.netlify.app)
